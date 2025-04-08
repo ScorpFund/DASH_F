@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include github_requirements.txt
+include .streamlit/config.toml
+include .streamlit/style.css
+include assets/*
+include vector_db/.gitkeep
